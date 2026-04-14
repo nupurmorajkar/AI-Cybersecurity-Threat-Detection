@@ -1,0 +1,7 @@
+cybersec_env/
+__pycache__/
+*.pyc
+*.pkl
+*.egg-info/
+.DS_Store
+.ipynb_checkpoints/
